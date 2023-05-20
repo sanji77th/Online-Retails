@@ -1,4 +1,4 @@
-# Project Description: Analyzing Online Retail Data and Cluster
+# Project Description: Analyzing Online Retail Data and Clustering
 
 ## Introduction:
 The project focuses on analyzing a transnational dataset from a UK-based online retail company. The dataset encompasses transactions that occurred between 01/12/2010 and 09/12/2011, with a primary emphasis on unique all-occasion gifts. The company serves a diverse customer base, including wholesalers. The primary objective is to analyze the dataset and cluster the data points into a few meaningful groups.

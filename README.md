@@ -1,3 +1,9 @@
+# Problem Statement
+
+Problem Statement: The challenge at hand centers on the substantial customer churn experienced within an e-commerce retail enterprise. The issue pertains to an online retail company based in the United Kingdom, specializing in a wide array of distinctive gift items. This organization serves a varied customer base, encompassing both individual consumers and wholesale buyers. The core predicament is the need to comprehensively analyze the provided transnational dataset, covering transactions spanning from December 1, 2010, to September 9, 2011. The overarching objective is to gain insight into customer purchasing behavior, delineate meaningful customer segments, and ultimately devise strategies to reduce customer attrition.
+
+Project Solution: The project addresses the pressing concern of customer attrition through rigorous data analysis and segmentation techniques applied to a dataset obtained from a UK-based online retail company. The dataset chronicles transactions conducted between December 1, 2010, and September 9, 2011, and primarily focuses on the domain of distinctive gifts. The customer base served by this retail entity is multifaceted, encompassing both individual customers and wholesale purchasers. The fundamental aim of this project is to discern discernible patterns within customer buying behavior. By segmenting customers into meaningful groups and gaining insights into their preferences and tendencies, the project seeks to formulate effective retention strategies, thereby ensuring sustained business growth.
+
 # Project Description: Analyzing Online Retail Data and Clustering
 
 ## Introduction:
